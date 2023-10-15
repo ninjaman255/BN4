@@ -1,0 +1,2 @@
+GenericTiles
+each part "block" is 8x8, the top left quad block is 16x16, the big one below is 32x32. the stairs and slopes are both 16x16 in stamp form, the slope part is 16x8 and the stairs are 8x8.

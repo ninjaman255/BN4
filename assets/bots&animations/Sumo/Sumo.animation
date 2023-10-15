@@ -1,0 +1,45 @@
+imagePath="SumoDummy.png"
+
+animation state="IDLE_DL"
+frame duration="0.05" x="7" y="2" w="39" h="40" originx="23" originy="39"
+
+animation state="IDLE_UL"
+frame duration="0.05" x="107" y="2" w="39" h="40" originx="23" originy="39"
+
+animation state="WALK_DL"
+frame duration="0.2" x="7" y="2" w="39" h="40" originx="23" originy="39"
+frame duration="0.2" x="58" y="2" w="39" h="40" originx="23" originy="39"
+
+animation state="WALK_UL"
+frame duration="0.2" x="107" y="2" w="39" h="40" originx="23" originy="39"
+frame duration="0.2" x="158" y="2" w="39" h="40" originx="23" originy="39"
+
+animation state="IDLE_DR"
+frame duration="0.05" x="7" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+
+animation state="IDLE_UR"
+frame duration="0.05" x="107" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+
+animation state="WALK_DR"
+frame duration="0.2" x="7" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+frame duration="0.2" x="58" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+
+animation state="WALK_UR"
+frame duration="0.2" x="107" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+frame duration="0.2" x="158" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+
+animation state="RUN_DR"
+frame duration=".1" x="7" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+frame duration=".1" x="58" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+
+animation state="RUN_UR"
+frame duration=".1" x="107" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+frame duration=".1" x="158" y="2" w="39" h="40" originx="23" originy="39" flipx="1"
+
+animation state="RUN_DL"
+frame duration=".1" x="7" y="2" w="39" h="40" originx="23" originy="39"
+frame duration=".1" x="58" y="2" w="39" h="40" originx="23" originy="39"
+
+animation state="RUN_UL"
+frame duration=".1" x="107" y="2" w="39" h="40" originx="23" originy="39"
+frame duration=".1" x="158" y="2" w="39" h="40" originx="23" originy="39"
